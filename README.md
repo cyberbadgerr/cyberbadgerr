@@ -2,4 +2,4 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://cyberbadgerr.mit-license.org/)
 [![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![wakatime](https://wakatime.com/badge/user/8139c01a-be82-4b84-a395-ccbeb429fcc4.svg)](https://wakatime.com/@8139c01a-be82-4b84-a395-ccbeb429fcc4)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/cyberbadgerr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberbadgerr)](https://github.com/cyberbadgerr/github-readme-stats)
