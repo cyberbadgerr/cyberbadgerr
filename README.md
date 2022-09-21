@@ -1,6 +1,4 @@
-
-[GIF]<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmediastudies.voices.wooster.edu%2F2019%2F05%2F01%2Fviolence-puts-the-v-in-t-v%2F&psig=AOvVaw2pfvKoLdcK5nOk1EUpz9pg&ust=1663841241110000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjkrOXRpfoCFQAAAAAdAAAAABBQ" width="500" height="320" />
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@42.mfdd) 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://cyberbadgerr.mit-license.org/)
