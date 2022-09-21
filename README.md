@@ -1,3 +1,7 @@
+
+[GIF]<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmediastudies.voices.wooster.edu%2F2019%2F05%2F01%2Fviolence-puts-the-v-in-t-v%2F&psig=AOvVaw2pfvKoLdcK5nOk1EUpz9pg&ust=1663841241110000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjkrOXRpfoCFQAAAAAdAAAAABBQ" width="500" height="320" />
+
+
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@42.mfdd) 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://cyberbadgerr.mit-license.org/)
 [![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
@@ -6,7 +10,7 @@
 [![image](https://user-images.githubusercontent.com/99974217/191471868-24274e58-74ed-4cbc-b5f5-0cb26913c4c0.png&width="24px")](https://medium.com/@42.mfdd)
 
 
-
+### 📩 My Social Spaces:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://user-images.githubusercontent.com/99974217/191474972-58729e30-12ed-4e26-b7f8-6d73f53cf0c3.png" />][linkedin]
 [<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
