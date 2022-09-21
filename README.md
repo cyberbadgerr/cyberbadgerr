@@ -3,4 +3,4 @@
 [![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![wakatime](https://wakatime.com/badge/user/8139c01a-be82-4b84-a395-ccbeb429fcc4.svg)](https://wakatime.com/@8139c01a-be82-4b84-a395-ccbeb429fcc4)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberbadgerr)](https://github.com/anuraghazra/github-readme-stats)
-[![image](https://user-images.githubusercontent.com/99974217/191471868-24274e58-74ed-4cbc-b5f5-0cb26913c4c0.png&size=24x24)](https://medium.com/@42.mfdd)
+[![image](https://user-images.githubusercontent.com/99974217/191471868-24274e58-74ed-4cbc-b5f5-0cb26913c4c0.png&size=240x240)](https://medium.com/@42.mfdd)
