@@ -1,4 +1,4 @@
-<txt align="right" alt="txt" ###  My Head State
+###  My Head State
 
 <img align="right" alt="GIF" src="https://c.tenor.com/qwuEjGkDkZEAAAAS/quantum.gif" width="520" height="350" />
 
