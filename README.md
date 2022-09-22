@@ -19,7 +19,7 @@
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
-[instagram]: https://www.instagram.com/ibrahim_talha_demir
+[reddit]: https://www.reddit.com/user/cyberbadgerr
 [bionluk]: https://bionluk.com/cyberbadger
 [linkedin]: https://www.linkedin.com/in/x-xx-426845235/
 [medium]: https://medium.com/@42.mfdd 
