@@ -29,13 +29,7 @@
 [codingame]: https://www.codingame.com/profile/6e6b1c6a60d88152f1edb8fa23a342b60250374
 [geeksforgeeks]: https://auth.geeksforgeeks.org/user/cyberbadger
 
-
-
-
-
-
-
-
+<br />
 
 ### 🔧 Languages and Tools:
 
