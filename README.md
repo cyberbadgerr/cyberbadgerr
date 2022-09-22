@@ -26,7 +26,7 @@
 [linkedin]: https://www.linkedin.com/in/x-xx-426845235/
 [medium]: https://medium.com/@42.mfdd 
 [gmail]: mailto:42.mfdd@gmail.com
-[codingame]: https://www.codingame.com/profile/6e6b1c6a60d88152f1edb8fa23a342b60250374)
+[codingame]: https://www.codingame.com/profile/6e6b1c6a60d88152f1edb8fa23a342b60250374
 
 
 
