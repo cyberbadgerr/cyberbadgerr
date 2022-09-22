@@ -18,7 +18,7 @@
 [<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[<img align="left" height="24" width="24" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codingame.svg" />][codingame]
+[<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codingame.svg" />][codingame]
 
 
 [instagram]: https://www.reddit.com/user/cyberbadgerr
@@ -27,6 +27,7 @@
 [medium]: https://medium.com/@42.mfdd 
 [gmail]: mailto:42.mfdd@gmail.com
 [codingame]: https://www.codingame.com/profile/6e6b1c6a60d88152f1edb8fa23a342b60250374
+
 
 
 
